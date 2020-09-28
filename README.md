@@ -25,3 +25,5 @@ based by C++
 [동굴 탐험](./Programmers/Lv.4/동굴%20탐험.cpp)  
 [단어 퍼즐](./Programmers/Lv.4/단어%20퍼즐.cpp)  
 [지형 편집](./Programmers/Lv.4/지형%20편집.cpp)  
+[무지의 먹방 라이브](./Programmers/Lv.4/무지의%20먹방%20라이브.cpp)  
+[블록 게임](./Programmers/Lv.4/블록%20게임.cpp)  
